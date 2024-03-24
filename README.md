@@ -10,4 +10,4 @@ Bem-vindo ao meu GitHub!
 
 ☕ **Entrar em contato**
 
-[Linkedin](https://www.linkedin.com/in/cesarvalentino/)
+[Linkedin](https://www.linkedin.com/in/cesarvalentino/{target="_blank"})
