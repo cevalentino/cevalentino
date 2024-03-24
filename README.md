@@ -1,16 +1,13 @@
-### Hi there 👋
+# **Olá Devs!** 👋
+---
+## **Sou César Valentino** 😃👋
 
-<!--
-**cevalentino/cevalentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+#🤜 Atualmente estou totalmente focado em entender como resolver problemas utilizando a Ciência de Dados!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#💻Bacharel em Ciências da Computação, 🧠focado em Análise de Dados, 🌐Desenvolvedor Web, ⚡Professor e 🎸Guitarrista!
+
+##☕ **Entrar em contato**
+
+[Linkedin](https://www.linkedin.com/in/cesarvalentino/)
